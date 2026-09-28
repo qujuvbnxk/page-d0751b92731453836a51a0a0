@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f9ca618d3ebeb418d4f5fd07",
+  "owner": "qujuvbnxk",
+  "repo": "page-d0751b92731453836a51a0a0",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d0751b92731453836a51a0a0",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7eb057d6287979ea4c521b628a7d97b766abbf72468459450625e689b9a49a42",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供专业的VPN加速服务，涵盖机场订阅与客户端下载。基础版、旗舰版、团队版套餐可选，官方下载入口一站式获取稳定高速网络。",
+          "AI_DESCRIPTION": "快柠檬提供专业的VPN加速服务，涵盖机场订阅与客户端下载。基础版、旗舰版、团队版套餐可选，官方下载入口一站式获取稳定高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #0A2540;\n            --cyan: #00D4FF;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--blue);\n            color: #fff;\n            line-height: 1.6;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        nav {\n            background: rgba(10, 37, 64, 0.95);\n            padding: 1rem 2rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--cyan);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: #fff;\n            text-decoration: none;\n            font-size: 1rem;\n        }\n        .hero {\n            padding: 6rem 2rem;\n            text-align: center;\n            background: var(--blue);\n        }\n        h1 {\n            font-size: 3.5rem;\n            margin-bottom: 1rem;\n            color: var(--cyan);\n        }\n        .hero p {\n            font-size: 1.3rem;\n            margin-bottom: 2rem;\n            max-width: 600px;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        .cta {\n            display: inline-block;\n            background: var(--cyan);\n            color: var(--blue);\n            padding: 0.8rem 2rem;\n            border-radius: 4px;\n            text-decoration: none;\n            font-weight: bold;\n            font-size: 1.1rem;\n        }\n        .section {\n            padding: 4rem 2rem;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: var(--cyan);\n            text-align: center;\n        }\n        p {\n            margin-bottom: 1rem;\n            font-size: 1.1rem;\n            max-width: 800px;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        ul {\n            max-width: 800px;\n            margin-left: auto;\n            margin-right: auto;\n            display: grid;\n            gap: 1rem;\n        }\n        .plans-grid {\n            display: grid;\n            gap: 2rem;\n            max-width: 1000px;\n            margin: 0 auto;\n        }\n        .plan-card {\n            background: #112244;\n            border-radius: 8px;\n            padding: 1.5rem;\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            margin-bottom: 0.5rem;\n            color: var(--cyan);\n        }\n        .plan-price {\n            font-size: 1.8rem;\n            margin-bottom: 1rem;\n        }\n        .plan-features {\n            list-style: none;\n            margin: 1rem 0;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #334466;\n        }\n        details {\n            background: #112244;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: var(--cyan);\n            font-size: 1.1rem;\n        }\n        .download-section {\n            text-align: center;\n        }\n        .client-placeholder {\n            background: #112244;\n            padding: 2rem;\n            border-radius: 8px;\n            margin: 2rem auto;\n            max-width: 600px;\n        }\n        footer {\n            background: #051022;\n            padding: 2rem;\n            text-align: center;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.8rem; }\n            .hero { padding: 4rem 1rem; }\n            .nav-links { gap: 1rem; }\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <div class=\"logo\">快柠檬</div>\n            <div class=\"nav-links\">\n                <a href=\"#\">首页</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">下载</a>\n            </div>\n        </nav>\n\n        <header class=\"hero\">\n            <h1>快柠檬 <span>机场</span></h1>\n            <p>稳定高速VPN加速器<br>机场订阅与客户端一键下载</p>\n            <a href=\"#download\" class=\"cta\">立即下载客户端</a>\n        </header>\n\n        <section class=\"section intro\">\n            <h2>品牌简介</h2>\n            <p>快柠檬是一款专注于VPN加速与机场订阅的专业服务。无论您是日常上网、游戏娱乐还是海外内容观看，我们都提供稳定可靠的网络连接解决方案。</p>\n            <p>通过先进的节点优化技术，帮助用户突破地域限制，获得更快更稳定的访问体验。</p>\n        </section>\n\n        <section class=\"section\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>办公出差：全球节点覆盖，随时保持高效办公</li>\n                <li>在线游戏：低延迟IPLC专线优化游戏体验</li>\n                <li>媒体解锁：畅享Netflix、YouTube等全球热门内容</li>\n                <li>远程办公：保护隐私，稳定连接不中断</li>\n                <li>跨境旅行：轻松访问被屏蔽的海外网站</li>\n            </ul>\n        </section>\n\n        <section class=\"section\">\n            <h2>操作说明</h2>\n            <p>注册账号后，选择适合您的套餐即可开始使用。下载官方客户端，安装完成后连接任意节点，即可享受稳定加速服务。</p>\n            <p>整个流程仅需几分钟，界面简洁友好，适合各年龄层用户。</p>\n        </section>\n\n        <section id=\"plans\" class=\"section\">\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n\n        <section id=\"faq\" class=\"section\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>快柠檬是什么？</summary>\n                <p>快柠檬是一款专业的VPN加速器和机场订阅服务，提供稳定高速的网络连接，帮助用户畅享全球内容。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、Mac、iOS、Android、Linux等多平台客户端，一键安装使用。</p>\n            </details>\n            <details>\n                <summary>如何使用快柠檬？</summary>\n                <p>注册账号 → 选择套餐 → 下载客户端 → 安装后连接节点即可。</p>\n            </details>\n            <details>\n                <summary>节点池包含哪些线路？</summary>\n                <p>节点池包含多种高质量线路选择，满足不同地区和访问需求的切换。</p>\n            </details>\n            <details>\n                <summary>客服支持如何？</summary>\n                <p>提供7x24在线工单支持，技术问题响应迅速，助力您顺利使用。</p>\n            </details>\n        </section>\n\n        <section id=\"download\" class=\"section download-section\">\n            <h2>客户端下载</h2>\n            {{CLIENTS_HTML}}\n            <p>点击下方按钮，下载官方客户端，开启您的加速之旅。</p>\n        </section>\n\n        <footer>\n            <p>© 快柠檬 机场 2024 | 稳定高速 · 官方正版</p>\n            <p>所有套餐价格与节点信息以官网为准</p>\n        </footer>\n    </main>\n\n",
+          "hash": "3b81131e0108b96a522c9da73efa1a8105a6e003a89a80b523a3c32244fc04e6",
+          "seo": {
+            "title": "快柠檬机场 | 稳定VPN加速器 客户端下载官网",
+            "keywords": "快柠檬,快柠檬VPN,快柠檬机场,VPN加速器,机场订阅,客户端下载",
+            "description": "快柠檬提供专业的VPN加速服务，涵盖机场订阅与客户端下载。基础版、旗舰版、团队版套餐可选，官方下载入口一站式获取稳定高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xtehtzd.cn",
+    "host": "home.xtehtzd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5babc34535842458d96d67f91af335d54a0d1a2215679ef0bc7d6e4ac0934d67",
+    "sitemap.xml": "12d9c5a43ee0131334d2b93e16f1b07575109d14111781fc5b4a9486ec119a9a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0ba4ddbbe6f67b5847e6da819c9e92e09d5be074b7e689c349c1a4674c3e4545",
+    "robots.txt": "d00a10505194e721098198e407eca1f6bdcec8ff7a76fa58c9324d443584f925",
+    "eb68c5fadc096d0b7e72401f6ce8cf37.txt": "a980ef83e04776a3a9115bf849a7263cca8ce2f1fd50d11e2d811001edcdf3e3"
+  },
+  "revision": "f43152bfb629e48b71d8908685e26f705c97d484f26b8d740d8be693e25a0a19"
+}
